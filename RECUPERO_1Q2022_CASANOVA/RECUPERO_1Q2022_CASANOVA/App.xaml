@@ -1,0 +1,9 @@
+﻿<Application x:Class="RECUPERO_1Q2022_CASANOVA.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:RECUPERO_1Q2022_CASANOVA"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
