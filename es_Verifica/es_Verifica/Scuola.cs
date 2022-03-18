@@ -20,5 +20,10 @@ namespace es_Verifica
             OrarioApertura = orarioApertura;
             OrarioChiusura = orarioApertura;
         }
+
+        public override string ToString()
+        {
+            return Nome + " " + Indirizzo + " " + OrarioApertura + " " + OrarioChiusura;
+        }
     }
 }
