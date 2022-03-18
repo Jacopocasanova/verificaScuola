@@ -20,6 +20,7 @@ namespace es_Verifica
     /// </summary>
     public partial class MainWindow : Window
     {
+    // questo commento è stato fatto d git hub 
         public MainWindow()
         {
             InitializeComponent();
